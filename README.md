@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Ex-03 C-Execution of Linux-Commands
 # Name: Mohammed Parvez S
 # Reg No: 212223040113
 ## Aim:
